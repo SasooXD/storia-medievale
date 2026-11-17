@@ -1,0 +1,14 @@
+vallerani:
+  type: Book
+  title: Storia medievale
+  author:
+    - Provero, Luigi
+    - Vallerani, Massimo
+  date: 2022
+  edition: 2
+  publisher:
+    name: Le Monnier Università
+    location: Firenze
+  serial-number:
+    isbn: 978-88-00-75043-1
+  language: it
